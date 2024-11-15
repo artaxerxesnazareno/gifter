@@ -10,7 +10,11 @@ class UsecaseGetImageGiftrending {
     final response = await httpAdapter.get(ApiConfig.getTrendingGifsUrl());
     if (response.sucess) {
       for (var e in response.object['data']) {
-        list.add(ImageGif.fromMap(e['images']['fixed_height']));
+        final result = {
+          'url': e['images']['fixed_height']['url'],
+          'title': e['title']
+        };
+        list.add(ImageGif.fromMap(result));
       }
       return list;
     }
