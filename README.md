@@ -75,10 +75,10 @@ gifter/
 flutter run
 ```
 
-## 📱 Screenshots
+## 📱 Screenshots 
 
 <video width="320" controls>
-  <source src="assets/Screen_recording_20241115_153138.mp4" type="video/mp4">
+  <source src="https://github.com/artaxerxesnazareno/gifter/blob/main/assets/Screen_recording_20241115_153138.mp4" type="video/mp4">
   Seu navegador não suporta o elemento de vídeo.
 </video>
 
