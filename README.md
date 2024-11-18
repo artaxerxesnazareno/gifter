@@ -22,8 +22,9 @@ Um aplicativo Flutter para buscar e compartilhar GIFs usando a API do Giphy.
 
 - Flutter SDK
 - Dart SDK
-- Android Studio / XCode para emuladores
+- Android Studio / VSCode
 - Uma chave de API do Giphy
+- Emulador ou Dispositivo físico
 
 ## 🔧 Configuração
 
