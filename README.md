@@ -75,7 +75,7 @@ gifter/
 flutter run
 ```
 
-## 📱 Screenshots 
+## 📱 Screenshots 2 teste de titulo
 
 <video width="320" controls>
   <source src="https://github.com/artaxerxesnazareno/gifter/blob/main/assets/Screen_recording_20241115_153138.mp4" type="video/mp4">
